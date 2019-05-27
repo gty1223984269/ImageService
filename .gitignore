@@ -1,0 +1,6 @@
+/obj
+/docker-compose.override.yml
+/docker-compose.yml
+/bin
+/.dockerignore
+/docker-compose.dcproj

@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  imageservices:
-    image: imageservices
-    build:
-      context: .
-      dockerfile: ImageServices/Dockerfile
