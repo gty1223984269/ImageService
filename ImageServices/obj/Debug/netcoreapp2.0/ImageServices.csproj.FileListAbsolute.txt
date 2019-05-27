@@ -1,0 +1,11 @@
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\bin\Debug\netcoreapp2.0\ImageServices.deps.json
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\bin\Debug\netcoreapp2.0\ImageServices.runtimeconfig.json
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\bin\Debug\netcoreapp2.0\ImageServices.runtimeconfig.dev.json
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\bin\Debug\netcoreapp2.0\ImageServices.dll
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\bin\Debug\netcoreapp2.0\ImageServices.pdb
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.csprojResolveAssemblyReference.cache
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.csproj.CoreCompileInputs.cache
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.AssemblyInfoInputs.cache
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.AssemblyInfo.cs
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.dll
+C:\Users\ext.jack.guo\source\repos\ImageServices\ImageServices\obj\Debug\netcoreapp2.0\ImageServices.pdb
