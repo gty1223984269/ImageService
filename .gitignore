@@ -7,3 +7,5 @@
 /obj/Docker
 /obj/Release
 /obj/Debug
+/ImageServices/bin
+/ImageServices/obj
