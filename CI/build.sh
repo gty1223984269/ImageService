@@ -1,4 +1,3 @@
-cd var/lib/jenkins/workspace/Test
 cp Test/Dockerfile ./
 cp Test/CI/build.sh ./
 chmod   +x    build.sh
