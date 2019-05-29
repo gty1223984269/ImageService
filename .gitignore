@@ -9,3 +9,12 @@
 /obj/Debug
 /ImageServices/bin
 /ImageServices/obj
+/ImageServices/bin/Release
+/ImageServices/bin/Debug
+/ImageServices/obj/Release
+/ImageServices/obj/ImageServices.csproj.nuget.cache
+/ImageServices/obj/ImageServices.csproj.nuget.g.props
+/ImageServices/obj/ImageServices.csproj.nuget.g.targets
+/ImageServices/obj/project.assets.json
+/ImageServices/obj/Debug
+/ImageServices/obj/Docker
